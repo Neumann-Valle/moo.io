@@ -1,7 +1,7 @@
 /**
- * 
+ * TypeError: #<XHR> is not a function Moo server , Socket.io 1.0.0-pre
  * mootools
- * socket.io ver1
+ * socket.io ver 1.0.0-pre
  * 
  **/
 // require moo
