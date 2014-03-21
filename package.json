@@ -1,0 +1,21 @@
+{
+  "name": "moo.io",
+  "version": "1.0.0",
+  "description": "socket.io v1 error mootools",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "~1.0.0-pre",
+    "mootools": "~1.4.5-2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "Mootools",
+    "serverside"
+  ],
+  "author": "Neumann Valle",
+  "license": "BSD"
+}
